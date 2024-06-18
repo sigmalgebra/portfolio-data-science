@@ -3,7 +3,7 @@
  
 **[Project: Breast Cancer Diagnosis with Gaussian Mixture models in R](https://github.com/YourGitHubUsername/YourProjectRepo/blob/main/YourProject.pdf)**
 
-![](https://github.com/sigmalgebra/portfolio-data-science/blob/main/images/celle_nucle.jpeg)
+![](https://github.com/sigmalgebra/portfolio-data-science/blob/main/IMAGES/celle_nucle.jpeg)
 
 - Developed an advanced breast cancer diagnosis model using supervised and unsupervised learning techniques in R.
 - Proficient in data preprocessing, feature extraction, and visualization with ggplot2.
